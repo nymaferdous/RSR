@@ -6,6 +6,6 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-|<img src="multicolored-abstract-painting-1269968.jpg"  alt="1" width = 40px height = 40px > | Content Cell  |
+|<img src="./Images/IMG_1467.jpg"  alt="1" > | Content Cell  |
 | Content Cell  | Content Cell  |
  
