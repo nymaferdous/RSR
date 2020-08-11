@@ -6,6 +6,6 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-|<img src="./Images/IMG_1467.jpg"  alt="1" > | Content Cell  |
+|<img src="./LWDIV2K/0901.png"> |<img src="./LWDIV2K/0901.png"> |
 | Content Cell  | Content Cell  |
  
