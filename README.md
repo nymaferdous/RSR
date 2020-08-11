@@ -1,6 +1,6 @@
 # RSR
 
-| LR | HR(Upscale4x) |
+| LR | HR (Upscale4x) |
 | ------------- | ------------- |
 |<img src="./LWDIV2K/0901.png"> |<img src="./HRDIV2K/0901.png"> |
 |<img src="./LWDIV2K/0902.png"> | <img src="./HRDIV2K/0902.png"> |
