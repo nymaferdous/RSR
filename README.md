@@ -13,7 +13,7 @@
 |<img src="./LWDIV2K/0909.png"> | <img src="./HRDIV2K/0909.png"> |
 |<img src="./LWDIV2K/0910.png"> | <img src="./HRDIV2K/0910.png"> |
 
-##TineFace
+## TineFace
 
 | LR | HR (Upscale4x) |
 | ------------- | ------------- |
