@@ -17,10 +17,10 @@
 
 | LR | HR (Upscale4x) |
 | ------------- | ------------- |
-|<img src="./TinyFaceLR/9_27.png"> |<img src="./TinyFaceSR/9_27.png"> |
-|<img src="./TinyFaceLR/5_22.png"> |<img src="./TinyFaceSR/5_22.png"> |
-|<img src="./TinyFaceLR/1_93.png"> |<img src="./TinyFaceSR/1_93.png"> |
-|<img src="./TinyFaceLR/1_64.png"> |<img src="./TinyFaceSR/1_64.png"> |
-|<img src="./TinyFaceLR/1_189.png"> |<img src="./TinyFaceSR/1_189.png"> |
+|<img src="./TinyFaceReal/9_27.png"> |<img src="./TinyFaceSR/9_27.png"> |
+|<img src="./TinyFaceReal/5_22.png"> |<img src="./TinyFaceSR/5_22.png"> |
+|<img src="./TinyFaceReal/1_93.png"> |<img src="./TinyFaceSR/1_93.png"> |
+|<img src="./TinyFaceReal/1_64.png"> |<img src="./TinyFaceSR/1_64.png"> |
+|<img src="./TinyFaceReal/1_189.png"> |<img src="./TinyFaceSR/1_189.png"> |
 
 
